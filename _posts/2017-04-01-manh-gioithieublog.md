@@ -3,7 +3,7 @@ layout: post
 title: Introduce about Manh
 description: "Giới thiệu về Blog Mạnh Smith"
 modified: 2017-04-01
-tags: [sample post, images, test]
+tags: [sample post]
 image:
   feature: abstract-3.jpg
   credit: dargadgetz
